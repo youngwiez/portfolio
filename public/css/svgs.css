@@ -1,0 +1,231 @@
+/* svg logo base color */
+.svg-color {
+    fill: #E0F2FE;
+    transition: fill 0.3s ease;
+}
+
+.svg-base-color {
+    fill: #0F172A;
+    transition: fill 0.3s ease;
+}
+
+/* html logo hover color */
+.svg-color:hover .svg-html-path1 {
+    fill: #E34F26;
+    transition: fill 0.3s ease;
+}
+
+.svg-color:hover .svg-html-path2 {
+    fill: #EF652A;
+    transition: fill 0.3s ease;
+}
+
+.svg-color:hover .svg-html-path3 {
+    fill: #EBEBEB;
+    transition: fill 0.3s ease;
+}
+
+.svg-color:hover .svg-html-path4 {
+    fill: #FFFFFF;
+    transition: fill 0.3s ease;
+}
+
+/* css logo hover color */
+.svg-color:hover .svg-css-path1 {
+    fill: #264DE4;
+    transition: fill 0.3s ease;
+}
+
+.svg-color:hover .svg-css-path2 {
+    fill: #2965F1;
+    transition: fill 0.3s ease;
+}
+
+.svg-color:hover .svg-css-path3 {
+    fill: #EBEBEB;
+    transition: fill 0.3s ease;
+}
+
+.svg-color:hover .svg-css-path4 {
+    fill: #FFFFFF;
+    transition: fill 0.3s ease;
+}
+
+/* js logo hover color */
+.svg-color:hover .svg-js-path1 {
+    fill: #F5DE19;
+    transition: fill 0.3s ease;
+}
+
+.svg-color:hover .svg-js-path2 {
+    fill: #000000;
+    transition: fill 0.3s ease;
+}
+
+/* php logo hover color */
+.svg-color:hover .svg-php-path1 {
+    fill: #6280B6;
+    transition: fill 0.3s ease;
+}
+
+.svg-color:hover .svg-php-path2 {
+    fill: #FFFFFF;
+    transition: fill 0.3s ease;
+}
+
+.svg-color:hover .svg-php-path3 {
+    fill: #000004;
+    transition: fill 0.3s ease;
+}
+
+/* python logo hover color */
+.svg-color:hover .svg-python-path1 {
+    fill: #3679B0;
+    transition: fill 0.3s ease;
+}
+
+.svg-color:hover .svg-python-path2 {
+    fill: #FFD43B;
+    transition: fill 0.3s ease;
+}
+
+.svg-color:hover .svg-python-path3 {
+    fill: #FFFFFF;
+    transition: fill 0.3s ease;
+}
+
+/* arduino logo hover color */
+.svg-color:hover .svg-arduino-path1 {
+    fill: #008184;
+    transition: fill 0.3s ease;
+}
+
+/* laravel logo hover color */
+.svg-color:hover .svg-laravel-path1 {
+    fill: #FB503B;
+    transition: fill 0.3s ease;
+}
+
+/* tailwind logo hover color */
+.svg-color:hover .svg-tailwind-path1 {
+    fill: #38BDF8;
+    transition: fill 0.3s ease;
+}
+
+/* bootstrap logo hover color */
+.svg-color:hover .svg-bootstrap-path1 {
+    fill: #7A11F8;
+    transition: fill 0.3s ease;
+}
+
+/* git logo hover color */
+.svg-color:hover .svg-git-path1 {
+    fill: #F34F29;
+    transition: fill 0.3s ease;
+}
+
+/* github logo hover color */
+.svg-color:hover .svg-github-path1 {
+    fill: #FFFFFF;
+    transition: fill 0.3s ease;
+}
+
+/* gitlab logo hover color */
+.svg-color:hover .svg-gitlab-path1 {
+    fill: #E24329;
+    transition: fill 0.3s ease;
+}
+
+.svg-color:hover .svg-gitlab-path2 {
+    fill: #FC6D26;
+    transition: fill 0.3s ease;
+}
+
+.svg-color:hover .svg-gitlab-path3 {
+    fill: #FCA326;
+    transition: fill 0.3s ease;
+}
+
+/* docker logo hover color */
+.svg-color:hover .svg-docker-path1 {
+    fill: #1D63ED;
+    transition: fill 0.3s ease;
+}
+
+/* selenium logo hover color */
+.svg-color:hover .svg-selenium-path1 {
+    fill: #43B02A;
+    transition: fill 0.3s ease;
+}
+
+/* mysql logo hover color */
+.svg-color:hover .svg-mysql-path1 {
+    fill: #00758F;
+    transition: fill 0.3s ease;
+}
+
+.svg-color:hover .svg-mysql-path2 {
+    fill: #F29111;
+    transition: fill 0.3s ease;
+}
+
+/* locust logo hover color */
+.svg-color:hover .svg-locust-path1 {
+    fill: #B8EE48;
+    transition: fill 0.3s ease;
+}
+
+.svg-color:hover .svg-locust-path2 {
+    fill: #FFFFFF;
+    transition: fill 0.3s ease;
+}
+
+/* linux logo hover color */
+.svg-color:hover .svg-linux-path1 {
+    fill: #202020;
+    transition: fill 0.3s ease;
+}
+
+.svg-color:hover .svg-linux-path2 {
+    fill: #F8BF11;
+    transition: fill 0.3s ease;
+}
+
+.svg-color:hover .svg-linux-path3 {
+    fill: #D6A312;
+    transition: fill 0.3s ease;
+}
+
+.svg-color:hover .svg-linux-path4 {
+    fill: #FFFFFF;
+    transition: fill 0.3s ease;
+}
+
+.svg-color:hover .svg-linux-path5 {
+    fill: #E6E6E6;
+    transition: fill 0.3s ease;
+}
+
+/* debian logo hover color */
+.svg-color:hover .svg-debian-path1 {
+    fill: #CE0056;
+    transition: fill 0.3s ease;
+}
+
+/* ubuntu logo hover color */
+.svg-color:hover .svg-ubuntu-path1 {
+    fill: #E95420;
+    transition: fill 0.3s ease;
+}
+
+/* cisco logo hover color */
+.svg-color:hover .svg-cisco-path1 {
+    fill: #00BCEB;
+    transition: fill 0.3s ease;
+}
+
+/* mikrotik logo hover color */
+.svg-color:hover .svg-mikrotik-path1 {
+    fill: #293239;
+    transition: fill 0.3s ease;
+}
